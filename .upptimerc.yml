@@ -26,7 +26,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/an1ket/upptime
+      href: https://github.com/strydden/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
