@@ -22,7 +22,7 @@
     "url": "https://staging-app.unitedwrestlingclub.com",
     "icon": "https://favicons.githubusercontent.com/staging-app.unitedwrestlingclub.com",
     "slug": "uwc-staging-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-15": 0
+    }
   },
   {
     "name": "Travalab",
