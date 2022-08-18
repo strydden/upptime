@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 432,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 302,
+    "timeDay": 101,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/staging-app.unitedwrestlingclub.com",
     "slug": "uwc-staging-backend",
     "status": "down",
-    "uptime": "69.46%",
+    "uptime": "56.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.46%",
-    "uptimeMonth": "69.46%",
-    "uptimeYear": "69.46%",
+    "uptimeWeek": "56.55%",
+    "uptimeMonth": "56.55%",
+    "uptimeYear": "56.55%",
     "time": 260,
     "timeDay": 0,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-08-17": 104,
+      "2022-08-18": 100,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 376
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 398,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 292,
+    "timeDay": 71,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   }
 ]
