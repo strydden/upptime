@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-app.unitedwrestlingclub.com.ico",
     "slug": "uwc-staging-backend",
     "status": "up",
-    "uptime": "96.89%",
+    "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.89%",
+    "uptimeYear": "96.90%",
     "time": 244,
     "timeDay": 375,
     "timeWeek": 235,
@@ -46,17 +46,19 @@
     "url": "https://www.travalab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.travalab.com.ico",
     "slug": "travalab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 408,
-    "timeWeek": 276,
-    "timeMonth": 282,
+    "timeDay": 333,
+    "timeWeek": 274,
+    "timeMonth": 281,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-18": 0
+    }
   }
 ]
