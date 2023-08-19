@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.unitedwrestlingclub.com.ico",
     "slug": "uwc-backend",
     "status": "down",
-    "uptime": "78.32%",
+    "uptime": "78.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.00%",
+    "uptimeYear": "77.73%",
     "time": 283,
-    "timeDay": 319,
-    "timeWeek": 238,
-    "timeMonth": 226,
+    "timeDay": 354,
+    "timeWeek": 245,
+    "timeMonth": 234,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-08-18": 50,
+      "2023-08-19": 48,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -106,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-app.unitedwrestlingclub.com.ico",
     "slug": "uwc-staging-backend",
     "status": "down",
-    "uptime": "71.58%",
+    "uptime": "71.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -117,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-08-18": 50,
+      "2023-08-19": 48,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -219,8 +221,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
-      "2023-05-08": 359,
-      "2022-08-19": 1007
+      "2023-05-08": 359
     }
   },
   {
@@ -235,10 +236,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 352,
-    "timeWeek": 340,
-    "timeMonth": 325,
-    "timeYear": 308,
+    "timeDay": 426,
+    "timeWeek": 324,
+    "timeMonth": 336,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   }
 ]
