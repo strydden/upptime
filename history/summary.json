@@ -4,16 +4,16 @@
     "url": "https://www.travalab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.travalab.com.ico",
     "slug": "travalab",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "84.25%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.84%",
     "time": 287,
-    "timeDay": 227,
-    "timeWeek": 405,
-    "timeMonth": 389,
+    "timeDay": 265,
+    "timeWeek": 401,
+    "timeMonth": 388,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-06-21": 98,
@@ -21,7 +21,7 @@
       "2026-03-24": 86,
       "2026-06-05": 307,
       "2026-06-06": 115,
-      "2026-06-11": 0
+      "2026-06-11": 227
     }
   }
 ]
